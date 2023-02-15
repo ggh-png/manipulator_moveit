@@ -3,14 +3,6 @@
 ![ezgif.com-gif-maker.gif](ezgif.com-gif-maker.gif)
 
 
-<p float="left">
-  <img src="ezgif.com-gif-maker.gif" width="100" />
-  <img src="IMG_2710" width="100" /> 
-</p>
-
-
-
-![IMG_2710.gif](IMG_2710.gif)
 
 매니퓰레이터 로봇을 위한 간단한 MoveIt 패키지입니다. 패키지에는 로봇의 URDF 모델과 MoveIt용 구성 파일이 포함되어 있습니다.
 
@@ -44,6 +36,9 @@
 ```bash
 roslaunch moveit_arduino demo.launch 
 ```
+
+
+![IMG_2710.gif](IMG_2710.gif)
 
 이렇게 하면 로봇의 동작을 계획하고 실행할 수 있는 MoveIt 및 Rviz가 시작됩니다.
 
