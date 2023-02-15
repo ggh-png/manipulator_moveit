@@ -1,5 +1,7 @@
 # **manipulator_moveit**
 
+![example](IMG_2710_AdobeExpress (3).gif)
+
 매니퓰레이터 로봇을 위한 간단한 MoveIt 패키지입니다. 패키지에는 로봇의 URDF 모델과 MoveIt용 구성 파일이 포함되어 있습니다.
 
 ## ****Installation****
