@@ -38,7 +38,7 @@ roslaunch moveit_arduino demo.launch
 ```
 
 
-![IMG_2710.gif](IMG_2710.gif)
+![IMG_2710.gif](11_AdobeExpress.gif)
 
 이렇게 하면 로봇의 동작을 계획하고 실행할 수 있는 MoveIt 및 Rviz가 시작됩니다.
 
